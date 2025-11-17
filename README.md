@@ -72,7 +72,7 @@ Sales method
 
 This expanded the dataset for statistical modelling.
 
-$ 7️⃣ Region & State Binning
+# 7️⃣ Region & State Binning
 
 Aggregated U.S. states into:
 
