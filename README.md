@@ -1,4 +1,4 @@
-# SAS-Based-Retail-Sales-Data-Cleaning-Analysis
+# SAS Retail Sales Data Management
 
 A complete end-to-end data quality and exploratory analytics project
 
